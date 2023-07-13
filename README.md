@@ -2,7 +2,7 @@
 <h2>🛈 Sobre </h2>
 <p align="justify">O projeto de Relógio Digital Interativo é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. Ele permite aos usuários visualizarem o horário atual de forma digital e interativa, proporcionando uma experiência agradável e funcional.</p>
 <p align="center">
-<img width="1000" height="420" src="https://github.com/vinicinfernandes/Projeto_Relogio_Digital-/blob/main/IMGS/relogio.gif">
+<img src="https://github.com/vinicinfernandes/Projeto_Relogio_Digital-/blob/main/IMGS/relogio.gif" width="80%">
 </img>
 </p>
 <h2>💻Tecnologias Utilizadas</h2>
