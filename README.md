@@ -5,7 +5,7 @@
 <img src="https://github.com/vinicinfernandes/Projeto_Relogio_Digital-/blob/main/IMGS/relogio.gif" width="80%">
 </img>
 </p>
-<h2>💻Tecnologias Utilizadas</h2>
+<h2>🔧 Tecnologias Utilizadas</h2>
 <ul>
 <li>HTML5: para a estruturação e marcação dos elementos da página;</li> 
 <li>CSS3: para a estilização e personalização visual do relógio;</li> 
